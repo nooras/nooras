@@ -8,6 +8,6 @@ I am Computer Engineer 🤓 💻
 - 🤔 I’m always trying to learn something new, Mostly I learn some tech languages or do programming practice
 - 💬 Ask me about Python, Java, OOPs, C, Html (I am not expert)
 - 📫 How to reach me: Github -> @nooras
-- 😄 Pronouns: Nooras Fatima (Noor-us Fat-ee-ma)
+- 😄 Pronouns: She / Her
 - ⚡ Fun fact: I want to learn all tech language (Alllllll) 
 
