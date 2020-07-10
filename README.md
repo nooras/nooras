@@ -10,3 +10,6 @@ I am Computer Engineer 🤓 💻
 - 📫 How to reach me: Github -> @nooras
 - 😄 Pronouns: Nooras Fatima (Noor-us Fat-ee-ma)
 - ⚡ Fun fact: I want to learn all tech language (Alllllll) 
+
+Profile Hits : [![HitCount](http://hits.dwyl.com/nooras/nooras.svg)](http://hits.dwyl.com/nooras/nooras)
+
