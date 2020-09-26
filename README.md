@@ -2,7 +2,7 @@
 
 <h1>Hello World <img src="assets/Earth.gif" width="24px">👋</h1>
 
-<img src="assets/NFGIF.gif" height="550">
+<img src="assets/NFGIF.gif" height="600">
 
 I am Computer Engineer 🤓 💻
 
