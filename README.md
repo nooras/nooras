@@ -1,5 +1,7 @@
 <h1>Hello World <img src="assets/Earth.gif" width="24px">👋</h1>
 
+<img src="assets/NFGIF.gif" height="550">
+
 I am Computer Engineer 🤓 💻
 
 - 🔭 I’m currently working on my skills
