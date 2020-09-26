@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nooras&color=lightgrey)
+
 <h1>Hello World <img src="assets/Earth.gif" width="24px">👋</h1>
 
 <img src="assets/NFGIF.gif" height="550">
