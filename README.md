@@ -76,6 +76,11 @@ I am Computer Engineer 🤓 💻
 <h1>Projects:</h1>
 <ul>
   <li>
+    <h4><strong><a href="https://github.com/nooras/ChitChat">CHITCHAT APPLICATION</a></strong></h4>
+    <h4>DJANGO | HTML | TAILWIND CSS | CSS</h4>
+    <p>With ChitChat you can talk with anyone by sharing ChitChat Id. First you have to Login/Register the sysstem. After Registering you have to enter your friends Id. After succefully entering ID you can chat with your friend on Web.</p>
+  </li>
+  <li>
     <h4><strong><a href="https://github.com/nooras/Income-tax-calculator">INCOME TAX CALCULATOR BY DJNAGO AND DEPLOYED ON HEROKU</a></strong></h4>
     <h4>DJANGO | HTML | CSS | HEROKU</h4>
     <p>Tax is calulated based on Income, Age and Investment Amount.</p>
