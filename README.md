@@ -2,7 +2,7 @@
 
 <h1>Hello World <img src="assets/Earth.gif" width="24px">👋</h1>
 
-<img src="assets/NFGIF.gif" height="600">
+![Group 7](https://user-images.githubusercontent.com/30138146/96364987-46a75680-115b-11eb-8124-02cd84cd2de8.png)
 
 I am Computer Engineer 🤓 💻
 
