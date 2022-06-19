@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=nooras&color=lightgrey)
 
-<h1>Hello World <img src="assets/Earth.gif" width="24px">👋</h1>
+<h1>Hello World 👋</h1>
 
 ![Group 7](https://user-images.githubusercontent.com/30138146/96364987-46a75680-115b-11eb-8124-02cd84cd2de8.png)
 
@@ -46,6 +46,7 @@ I am Computer Engineer 🤓 💻
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
+<!-- <img src="assets/Earth.gif" width="4px">
 <h1>Experience:</h1>
 <ul>
   <li>
@@ -75,7 +76,7 @@ I am Computer Engineer 🤓 💻
     <p>Poster Designer -  Dec 2017 to Jan 2018</p>
   </li>
 </ul>
-
+ -->
 <h1>Projects:</h1>
 <ul>
   <li>
