@@ -77,7 +77,7 @@ I am Computer Engineer 🤓 💻
   </li>
 </ul>
  -->
-<h1>Projects:</h1>
+<!-- <h1>Projects:</h1>
 <ul>
   <li>
     <h4><strong><a href="https://github.com/nooras/ChitChat">CHITCHAT APPLICATION</a></strong></h4>
@@ -147,6 +147,6 @@ I am Computer Engineer 🤓 💻
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nooras&show_icons=true&theme=light&line_height=40">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooras&theme=light"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooras&theme=light"> 
 </p>
-
+-->
