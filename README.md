@@ -46,6 +46,8 @@ I am Computer Engineer 🤓 💻
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
+[![An image of @nooras's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nooras)](https://holopin.io/@nooras)
+
 <!-- <img src="assets/Earth.gif" width="4px">
 <h1>Experience:</h1>
 <ul>
